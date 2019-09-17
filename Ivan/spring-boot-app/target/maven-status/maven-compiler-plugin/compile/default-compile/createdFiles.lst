@@ -1,0 +1,10 @@
+ru\bluming\www\springbootapp\entity\Title.class
+ru\bluming\www\springbootapp\repository\CategoryRepository.class
+ru\bluming\www\springbootapp\entity\Category.class
+ru\bluming\www\springbootapp\Application.class
+ru\bluming\www\springbootapp\entity\Goods.class
+ru\bluming\www\springbootapp\repository\TitleRepository.class
+ru\bluming\www\springbootapp\controllers\HelloController.class
+ru\bluming\www\springbootapp\service\impl\GoodsServiceImpl.class
+ru\bluming\www\springbootapp\repository\GoodsRepository.class
+ru\bluming\www\springbootapp\service\GoodsService.class
